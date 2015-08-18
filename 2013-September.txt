@@ -1,0 +1,24 @@
+From christian.heller at tuxtax.de  Sun Sep 22 12:36:19 2013
+From: christian.heller at tuxtax.de (Christian Heller)
+Date: Sun, 22 Sep 2013 12:36:19 +0200
+Subject: [cybop-developers] Release CYBOP 0.15.0
+Message-ID: <8366718.8S0hR7Imvj@uranus>
+
+Hi,
+
+I've just released CYBOP 0.15.0:
+http://www.cybop.org/
+
+Its major purpose is to provide an xDT (German medical exchange format)
+parser for the "xdt2html" tool of the "Res Medicinae" project.
+
+The release Res Medicinae 0.4.0 will follow in some hours or days at:
+http://www.resmedicinae.org/
+
+Christian
+
+-- 
+Reform our monetary system! Money is a public infrastructure.
+Use flowing money with demurrage, complementary, community currencies!
+http://www.humane-wirtschaft.de/beitraege/in-english/
+
